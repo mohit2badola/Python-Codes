@@ -3,6 +3,8 @@
 num=int(input("Enter a number"))
 
 cnum=str(num)
-
+sum=0
 for i in cnum:
-    print(int(i))
+    sum+=int(i)
+
+print("The sum is",sum)
