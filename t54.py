@@ -1,2 +1,1 @@
-# Find LCM of two numbers.
-
+# working on a list
